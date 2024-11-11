@@ -22,7 +22,9 @@ Results for https://www.abc.com/te/xyz will be saved in:
 
 Usage
 1.Clone the repository (or place this script on your server as needed).
+
 2.Configure URLs: Update the URLS array within the script to include the URLs you wish to test.
+
 3.Run the Script:  ./speedtest.sh
 
 The script will iterate over each URL in the URLS array, running a performance test for each and saving the results in the specified directory structure.
