@@ -2,10 +2,10 @@
 
 # Define the URLs you want to test
 URLS=(
-    "https://www.etvbharat.com/"
-    "https://www.etvbharat.com/te/andhra-pradesh"
-    "https://www.etvbharat.com/bn/west-bengal"
-    "https://www.etvbharat.com/kn/karnataka"
+    "https://www.abc.com/"
+    "https://www.abc.com/te/andhra-pradesh"
+    "https://www.abc.com/bn/west-bengal"
+    "https://www.abc.com/kn/karnataka"
 )
 
 # Define the base path for the reports
